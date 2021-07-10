@@ -1,11 +1,12 @@
+### Live Site(https://prateek-react-furniture-lab.netlify.app)
+
 #### .env vars
 
 - REACT_APP_AUTH_DOMAIN=
 - REACT_APP_CLIENT_ID=
 - REACT_APP_STRIPE_PUBLIC_KEY=
 - REACT_APP_STRIPE_SECRET_KEY=
-
-"# E-commerce-Furniture-Lab" 
+ 
 ## Auth0
 
 - [Auth0 - Main Docs](https://auth0.com/)
