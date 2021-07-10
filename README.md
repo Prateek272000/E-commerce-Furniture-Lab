@@ -1,4 +1,4 @@
-### Live Site(https://prateek-react-furniture-lab.netlify.app)
+### [Live Site](https://prateek-react-furniture-lab.netlify.app)
 
 #### .env vars
 
